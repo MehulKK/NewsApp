@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Mehul Kabaria on 21/04/2024, 10:30 AM
+  ~  * Copyright (c) 2024 . All rights reserved.
+  ~  */
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feedFragment"
+        android:icon="@drawable/explore"
+        android:title="@string/feed" />
+
+    <item
+        android:id="@+id/favoriteFragment"
+        android:icon="@drawable/favorite"
+        android:title="@string/favorites" />
+</menu>
